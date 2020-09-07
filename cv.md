@@ -1,1 +1,1 @@
-# rsschool-cv
+# 1. Oleg, Kotov. 
