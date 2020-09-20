@@ -1,0 +1,13 @@
+.content{
+    max-width: 1060px;
+    margin: 0 auto;
+}
+.avatar{
+    width: 200px;
+}
+li{
+    list-style-type:none;
+}
+ul{
+    margin-top: 0;
+}
